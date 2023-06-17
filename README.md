@@ -52,9 +52,10 @@
 #### ОС:
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" width="60" height="60" alt="Linux Badge"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" width="60" height="60" alt="macOs Badge"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" width="70" height="70" alt="macOs Badge"/>
 </div>
 
+---
 
 <!--
 <img src="" width="40" height="40" alt=" Badge"/>
