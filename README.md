@@ -18,7 +18,7 @@
 ---
 
 ### Стек:
-iconSize = "60"
+
 ---
 #### Языки программирования:
 <div>
@@ -45,8 +45,8 @@ iconSize = "60"
 <div>
   <img src="https://images.velog.io/images/s00ny0ung/post/bb8d2355-dfb0-4a8a-9998-7a3863e74771/grpc.png" width="40" height="40" alt="gRPC Badge"/>
   <img src="https://ria.gallerycdn.vsassets.io/extensions/ria/elastic/0.13.3/1530754501320/Microsoft.VisualStudio.Services.Icons.Default" width="60" height="60" alt="ES Badge"/>
-  <img src="https://pnx-assets-prod.s3.amazonaws.com/2020-07/swagger_logo_1.png" width="160" height=iconSize alt="Swagger Badge"/>
-  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width=iconSize height=iconSize alt="Gin Badge"/>
+  <img src="https://pnx-assets-prod.s3.amazonaws.com/2020-07/swagger_logo_1.png" width="160" height="60" alt="Swagger Badge"/>
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="60" height="60" alt="Gin Badge"/>
   <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" width="60" height="60" alt="Postman Badge"/>
 </div>
 
