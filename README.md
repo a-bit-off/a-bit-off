@@ -27,6 +27,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="60" height="60" alt="C Badge"/>
   <img src="https://github.com/a-bit-off/a-bit-off/blob/main/c-sharp.png" width="60" height="60" alt="С# Badge"/>
 </div>
+
 ---
 #### Базы данных:
 <div>
@@ -34,12 +35,14 @@
   <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/mysql-icon.png" width="60" height="60" alt="MySQL Badge"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/1C_Company_logo.svg/1280px-1C_Company_logo.svg.png" width="60" height="60" alt="1C Badge"/>
 </div>
+
 ---
 #### Виртуальные машины:
 <div>
   <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" width="60" height="60" alt="Docker Badge"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png?20150209215936" width="60" height="60" alt="Docker Badge"/>
 </div>
+
 ---
 #### Фреймворки:
 <div>
