@@ -17,7 +17,7 @@
 
 ---
 
-### <img src="https://www.iconpacks.net/icons/2/free-stack-icon-5858-thumb.png" width="20" height="20" alt="Steck Badge"/> Стек:
+### <img src="https://www.iconpacks.net/icons/2/free-stack-icon-5858-thumb.png" width="20" height="20" alt="Stack Badge"/> Стек:
 
 #### Языки программирования:
 <div>
