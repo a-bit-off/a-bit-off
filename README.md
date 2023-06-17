@@ -17,12 +17,14 @@
 
 ---
 
-### Стек
+### Стек:
+---
+#### Языки программирования:
 <div>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original-wordmark.svg" width="40" height="40" alt="Go Badge"/>
-  <img src="https://github.com/a-bit-off/a-bit-off/blob/main/c-.png" width="40" height="40" alt="С++ Badge"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="40" height="40" alt="C Badge"/>
-  <img src="https://github.com/a-bit-off/a-bit-off/blob/main/c-sharp.png" width="40" height="40" alt="С# Badge"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original-wordmark.svg" width="60" height="60" alt="Go Badge"/>
+  <img src="https://github.com/a-bit-off/a-bit-off/blob/main/c-.png" width="60" height="60" alt="С++ Badge"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="60" height="60" alt="C Badge"/>
+  <img src="https://github.com/a-bit-off/a-bit-off/blob/main/c-sharp.png" width="60" height="60" alt="С# Badge"/>
 </div>
 
 <div>
