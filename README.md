@@ -47,7 +47,7 @@ iconSize = "60"
   <img src="https://ria.gallerycdn.vsassets.io/extensions/ria/elastic/0.13.3/1530754501320/Microsoft.VisualStudio.Services.Icons.Default" width="60" height="60" alt="ES Badge"/>
   <img src="https://pnx-assets-prod.s3.amazonaws.com/2020-07/swagger_logo_1.png" width="160" height=iconSize alt="Swagger Badge"/>
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width=iconSize height=iconSize alt="Gin Badge"/>
-  <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" width=iconSize height=iconSize alt="Postman Badge"/>
+  <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" width="60" height="60" alt="Postman Badge"/>
 </div>
 
 ---
