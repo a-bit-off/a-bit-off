@@ -17,7 +17,7 @@
 
 ---
 
-## <img src="https://www.iconpacks.net/icons/2/free-stack-icon-5858-thumb.png" width="20" height="20" alt="Stack Badge"/> Стек:
+## <img src="https://www.iconpacks.net/icons/2/free-stack-icon-5858-thumb.png" width="30" height="30" alt="Stack Badge"/> Стек:
 
 #### Языки программирования:
 <div>
@@ -31,7 +31,7 @@
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="60" height="60" alt="Postgres Badge"/>
   <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/mysql-icon.png" width="80" height="60" alt="MySQL Badge"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/1C_Company_logo.svg/1280px-1C_Company_logo.svg.png" width="50" height="50" alt="1C Badge"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/1C_Company_logo.svg/1280px-1C_Company_logo.svg.png" width="70" height="50" alt="1C Badge"/>
 </div>
 
 #### Виртуальные машины:
