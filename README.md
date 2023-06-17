@@ -35,7 +35,7 @@
 
 <img src="https://ria.gallerycdn.vsassets.io/extensions/ria/elastic/0.13.3/1530754501320/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" alt="ES Badge"/>
 
-<img src="https://pnx-assets-prod.s3.amazonaws.com/2020-07/swagger_logo_1.png" width="40" height="40" alt="Swagger Badge"/>
+<img src="https://pnx-assets-prod.s3.amazonaws.com/2020-07/swagger_logo_1.png" width="120" height="40" alt="Swagger Badge"/>
 <img src="" width="40" height="40" alt=" Badge"/>
 <img src="" width="40" height="40" alt=" Badge"/>
 <img src="" width="40" height="40" alt=" Badge"/>
