@@ -2,13 +2,13 @@
 
 ---
 
-### :man_technologist: Обо мне:
+## :man_technologist: Обо мне:
 
 Я beckend разрботчик специализирущийся на языке Golang и тд.
 
 ---
 
-### 🤝 Социальные сети:
+## 🤝 Социальные сети:
   <div id="badges">
     <a href="https://t.me/Abitoff" target="_blank">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" width="40" height="40" alt="TG Badge"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### <img src="https://www.iconpacks.net/icons/2/free-stack-icon-5858-thumb.png" width="20" height="20" alt="Stack Badge"/> Стек:
+## <img src="https://www.iconpacks.net/icons/2/free-stack-icon-5858-thumb.png" width="20" height="20" alt="Stack Badge"/> Стек:
 
 #### Языки программирования:
 <div>
