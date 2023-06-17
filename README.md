@@ -18,7 +18,10 @@
 ---
 
 ### Стек
+<div>
 <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original-wordmark.svg" width="40" height="40" alt="С++ Badge"/>
 <img src="https://github.com/a-bit-off/a-bit-off/blob/main/c-.png" width="40" height="40" alt="С++ Badge"/>
-
+<img src="https://github.com/a-bit-off/a-bit-off/blob/main/c-sharp.png" width="40" height="40" alt="С++ Badge"/>
+<img src="https://github.com/a-bit-off/a-bit-off/blob/main/database.png" width="40" height="40" alt="С++ Badge"/>
+</div>
 
