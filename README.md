@@ -44,6 +44,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" width="40" height="40" alt="macOs Badge"/>
 </div>
 
+<div>
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" height="40" alt="Gin Badge"/>
+  <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" width="40" height="40" alt="Postman Badge"/>
+</div>
 
 
 <!--
