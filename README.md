@@ -2,7 +2,7 @@
 
 ---
 
-## <img src="https://github.com/a-bit-off/a-bit-off/blob/main/icons8-me-58.png" width="40" height="40" alt="Me Badge"/> Обо мне:
+## Обо мне:
 
 Я beckend разрботчик специализирущийся на языке Golang и тд.
 
