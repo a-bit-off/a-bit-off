@@ -2,7 +2,7 @@
 
 ---
 
-## <img src="https://w7.pngwing.com/pngs/371/708/png-transparent-computer-icons-blog-computer-software-about-us-miscellaneous-blue-face.png" width="40" height="40" alt="Me Badge"/> Обо мне:
+## <img src="https://github.com/a-bit-off/a-bit-off/blob/main/icons8-me-58.png" width="40" height="40" alt="Me Badge"/> Обо мне:
 
 Я beckend разрботчик специализирущийся на языке Golang и тд.
 
