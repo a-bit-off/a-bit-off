@@ -39,6 +39,8 @@
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" height="60" alt="Gin Badge"/>
   <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" width="60" height="60" alt="Postman Badge"/>
   <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="60" height="60" alt="Swagger Badge"/>
+  <img src="  https://camo.githubusercontent.com/f72d07b7d898f8935d557867df17416a1b430a2572f8ea1bae57d1700f5c754b/68747470733a2f2f63646e2e7261776769742e636f6d2f676f2d6368692f6368692f6d61737465722f5f6578616d706c65732f6368692e737667
+" width="60" height="60" alt="CHI Badge"/>
 </div>
 
 #### ОС:
