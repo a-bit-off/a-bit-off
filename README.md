@@ -1,13 +1,4 @@
-# Привет, меня зовут Темиркан!
 
-<!--
----
-
-## Обо мне:
-
-Я beckend разрботчик специализирущийся на языке Golang и тд.
--->
----
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="30" height="30" alt="Stack Badge"/> Стек:
 
